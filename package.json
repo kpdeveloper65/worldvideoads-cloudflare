@@ -6,10 +6,10 @@
   "scripts": {
     "dev": "next dev -p 3001",
     "build": "next build",
-    "build:cloudflare": "opennextjs-cloudflare",
+    "build:cloudflare": "opennextjs-cloudflare build",
     "start": "next start -p 3003",
-    "preview": "opennextjs-cloudflare build && wrangler dev --local",
-    "deploy": "wrangler deploy",
+    "preview": "npm run build:cloudflare && wrangler dev",
+    "deploy": "opennextjs-cloudflare deploy",
     "lint": "next lint",
     "db:generate": "prisma generate",
     "db:push": "prisma db push",
@@ -60,7 +60,7 @@
     "zod": "^3.23.0"
   },
   "devDependencies": {
-    "@opennextjs/cloudflare": "0.5.9",
+    "@opennextjs/cloudflare": "^1.20.2",
     "@types/bcryptjs": "^2.4.6",
     "@types/node": "^22.0.0",
     "@types/react": "^18.3.0",

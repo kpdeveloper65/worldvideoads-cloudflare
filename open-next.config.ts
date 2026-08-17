@@ -1,7 +1,7 @@
-// default open-next.config.ts file created by @opennextjs/cloudflare
-import { defineCloudflareConfig } from "@opennextjs/cloudflare/config";
-import kvIncrementalCache from "@opennextjs/cloudflare/kv-cache";
+// open-next.config.ts
+import { defineCloudflareConfig } from "@opennextjs/cloudflare";
 
 export default defineCloudflareConfig({
-  incrementalCache: kvIncrementalCache,
+  // Exclude problematic node modules from the worker bundle on Windows
+  buildCommand: "next build",
 });
