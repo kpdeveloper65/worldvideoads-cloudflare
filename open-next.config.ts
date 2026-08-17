@@ -2,6 +2,13 @@
 import { defineCloudflareConfig } from "@opennextjs/cloudflare";
 
 export default defineCloudflareConfig({
-  // Exclude problematic node modules from the worker bundle on Windows
-  buildCommand: "next build",
+  default: {
+    override: {
+      wrapper: "cloudflare-pages",
+    },
+  },
+  // Force esbuild to treat these packages as external to prevent bundling errors
+  middleware: {
+    external: ["jose", "@panva/hkdf"],
+  },
 });
