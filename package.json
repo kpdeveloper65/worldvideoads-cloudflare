@@ -7,7 +7,7 @@
     "dev": "next dev -p 3001",
     "build:next": "next build",
     "start": "next start -p 3003",
-    "build": "next build && opennextjs-cloudflare",
+    "build": "opennextjs-cloudflare",
     "preview": "next build && opennextjs-cloudflare && wrangler dev --local",
     "deploy": "wrangler deploy",
     "lint": "next lint",

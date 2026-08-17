@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "worldvideoads",
+  "name": "worldvideoads-cloudflare",
   "main": ".open-next/worker.js",
   "compatibility_date": "2026-08-01",
   "compatibility_flags": ["nodejs_compat"],
@@ -12,7 +12,7 @@
     {
       "binding": "DB",
       "database_name": "worldvideoads-db",
-      "database_id": "YOUR_D1_DATABASE_ID_HERE"
+      "database_id": "c1088cb0-c0e7-4770-a6a7-12435cf997d4"
     }
   ]
 }
