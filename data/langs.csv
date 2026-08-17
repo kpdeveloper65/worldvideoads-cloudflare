@@ -1,0 +1,114 @@
+"id","lang_key","type","english","arabic","dutch","french","german","russian","spanish","turkish"
+"504","1","category","United States","United States","United States","United States","United States","United States","United States","United States"
+"505","3","category","United Kingdom","United Kingdom","United Kingdom","United Kingdom","United Kingdom","United Kingdom","United Kingdom","United Kingdom"
+"506","4","category","France","France","France","France","France","France","France","France"
+"507","5","category","Australia","Australia","Australia","Australia","Australia","Australia","Australia","Australia"
+"508","6","category","Brazil","Brazil","Brazil","Brazil","Brazil","Brazil","Brazil","Brazil"
+"509","7","category","Germany","Germany","Germany","Germany","Germany","Germany","Germany","Germany"
+"510","8","category","New Zealand","New Zealand","New Zealand","New Zealand","New Zealand","New Zealand","New Zealand","New Zealand"
+"511","9","category","Canada","Canada","Canada","Canada","Canada","Canada","Canada","Canada"
+"512","10","category","Spain","Spain","Spain","Spain","Spain","Spain","Spain","Spain"
+"513","11","category","Argentina","Argentina","Argentina","Argentina","Argentina","Argentina","Argentina","Argentina"
+"514","12","category","India","India","India","India","India","India","India","India"
+"515","13","category","Netherlands","Netherlands","Netherlands","Netherlands","Netherlands","Netherlands","Netherlands","Netherlands"
+"560","560","category","Italy","Italy","Italy","Italy","Italy","Italy","Italy","Italy"
+"772","561","category","Sweden",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"773","562","category","Puerto Rico",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"774","563","category","Russia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"775","564","category","Egypt",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"776","565","category","Mexico",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"777","566","category","Belgium",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"778","567","category","Greece",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"779","568","category","Czechia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"780","569","category","Denmark",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"781","570","category","Israel",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"782","571","category","Thailand",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"784","573","category","Ukraine",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"785","574","category","Norway",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"786","575","category","Poland",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"787","576","category","Turkey",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"788","577","category","Latvia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"789","578","category","Hungary",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"790","579","category","Finland",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"791","580","category","Croatia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"792","581","category","South Africa",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"793","582","category","Ireland",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"794","583","category","Kazakhstan",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"795","584","category","Singapore",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"797","586","category","Colombia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"799","588","category","Portugal",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"801","590","category","Pakistan",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"802","591","category","Tunisia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"807","596","category","Iceland",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"808","597","category","Chile",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"809","598","category","Lebanon",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"810","599","category","Angola",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"811","600","category","Switzerland",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"812","601","category","United Arab Emirates",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"814","603","category","Venezuela",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"815","604","category","Peru",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"816","605","category","Georgia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"817","606","category","Costa Rica",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"818","607","category","Bolivia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"819","608","category","Romania",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"820","609","category","Morocco",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"821","610","category","Panama",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"822","611","category","Japan",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"824","613","category","Hong Kong",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"825","614","category","Bulgaria",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"826","615","category","China",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"827","616","category","Austria",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"832","621","category","Bosnia and Herzegovina",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"834","623","category","Belarus",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"835","624","category","Uruguay",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"837","626","category","Estonia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"838","627","category","Ecuador",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"843","632","category","South Korea",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"845","634","category","Malaysia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"847","636","category","Bangladesh",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"852","641","category","Jordan",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"855","644","category","Lithuania",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"858","647","category","Indonesia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"866","655","category","Iraq",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"878","667","category","Philippines",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"884","673","category","Kenya",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"886","675","category","Sudan",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"889","678","category","Vietnam",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"894","683","category","Taiwan",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"900","689","category","Iran",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"901","690","category","Albania",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"912","701","category","Honduras",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"914","703","category","Slovenia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"919","708","category","Slovakia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"986","775","category","Paraguay",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"991","780","category","Serbia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"994","783","category","Namibia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"995","784","category","Qatar",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"999","788","category","Jamaica",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1000","789","category","Malta",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1006","795","category","Nigeria",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1008","797","category","Macedonia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1009","798","category","El Salvador",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1014","803","category","Moldova",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1030","819","category","Guatemala",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1042","831","category","Uzbekistan",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1043","832","category","Dominican Republic",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1058","847","category","Azerbaijan",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1064","853","category","Algeria",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1069","858","category","Luxembourg",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1087","876","category","Nicaragua",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1100","889","category","Sri Lanka",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1101","889","category","Sri Lanka",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1124","909","category","Ivory Coast",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1159","944","category","Kuwait",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1160","945","category","Bermuda",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1173","958","category","Cyprus",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1268","1053","category","Cambodia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1269","1053","category","Cambodia",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1278","1061","category","Laos",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1298","1081","category","Chad",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1314","1097","category","Macau",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1316","1099","category","Ghana",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1506","1289","category","Sierra Leone",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1835","1618","category","Senegal",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1850","1633","category","Random Picks",NULL,NULL,NULL,NULL,NULL,NULL,NULL
