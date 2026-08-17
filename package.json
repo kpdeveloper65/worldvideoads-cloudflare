@@ -5,10 +5,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev -p 3001",
-    "build:next": "next build",
+    "build": "next build",
+    "build:cloudflare": "opennextjs-cloudflare",
     "start": "next start -p 3003",
-    "build": "opennextjs-cloudflare",
-    "preview": "next build && opennextjs-cloudflare && wrangler dev --local",
+    "preview": "opennextjs-cloudflare build && wrangler dev --local",
     "deploy": "wrangler deploy",
     "lint": "next lint",
     "db:generate": "prisma generate",
