@@ -1,14 +1,15 @@
 {
-  "name": "worldvideoads",
+  "name": "worldvideoads-cloudflare",
   "version": "2.0.0",
   "description": "worldvideoads - Premium Ad Discovery & Research Platform",
   "private": true,
   "scripts": {
     "dev": "next dev -p 3001",
-    "build": "next build",
+    "build:next": "next build",
     "start": "next start -p 3003",
+    "build": "next build && opennextjs-cloudflare",
     "preview": "next build && opennextjs-cloudflare && wrangler dev --local",
-    "deploy": "next build && opennextjs-cloudflare && wrangler deploy",
+    "deploy": "wrangler deploy",
     "lint": "next lint",
     "db:generate": "prisma generate",
     "db:push": "prisma db push",
