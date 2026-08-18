@@ -8,6 +8,12 @@
     "directory": ".open-next/assets",
     "binding": "ASSETS"
   },
+  "vars": {
+    "NEXTAUTH_URL": "https://worldvideoads-cloudflare.largestlimit.workers.dev",
+    "NEXT_PUBLIC_APP_URL": "https://worldvideoads-cloudflare.largestlimit.workers.dev",
+    "NEXT_PUBLIC_APP_NAME": "worldvideoads",
+    "NEXT_PUBLIC_APP_DESCRIPTION": "The Premium Ad Discovery & Research Library",
+  },
   "d1_databases": [
     {
       "binding": "DB",
