@@ -11,14 +11,21 @@ if (process.env.NODE_ENV === 'development') {
 }
 
 const nextConfig = {
-  
-  //optimizeFonts: false,
-  // Exclude server-only packages that use native Node modules from bundling
+  // DO NOT include 'next-auth' here. Only include standalone utility libs if needed.
   serverExternalPackages: [
     '@prisma/client', 
     '.prisma/client',
-    'next-auth',
+    'jose',
+    '@panva/hkdf'
   ],
+
+  // Force Next.js NFT tracer to include the workerd/web dist files in .open-next
+  outputFileTracingIncludes: {
+    '/**': [
+      './node_modules/@panva/hkdf/dist/**/*',
+      './node_modules/jose/dist/**/*'
+    ],
+  },
 
   // Redirects
   async redirects() {
